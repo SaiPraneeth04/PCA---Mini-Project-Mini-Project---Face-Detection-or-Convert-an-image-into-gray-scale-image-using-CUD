@@ -1,4 +1,4 @@
-# Convert Image to Grayscale image using CUDA 
+# Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUDA
 
 ## AIM:
 
